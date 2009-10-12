@@ -1,7 +1,7 @@
-package org.trailsframework.examples.conversations.services;
+package org.tynamo.examples.conversations.services;
 
 import org.apache.tapestry5.ioc.annotations.SubModule;
-import org.trailsframework.conversations.services.ConversationModule;
+import org.tynamo.conversations.services.ConversationModule;
 
 /**
  * This module is automatically included as part of the Tapestry IoC Registry, it's a good place to

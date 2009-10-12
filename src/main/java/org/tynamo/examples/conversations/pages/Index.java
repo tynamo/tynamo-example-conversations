@@ -1,4 +1,4 @@
-package org.trailsframework.examples.conversations.pages;
+package org.tynamo.examples.conversations.pages;
 
 import java.util.Random;
 

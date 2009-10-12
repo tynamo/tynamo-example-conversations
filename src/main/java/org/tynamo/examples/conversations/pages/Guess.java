@@ -1,4 +1,4 @@
-package org.trailsframework.examples.conversations.pages;
+package org.tynamo.examples.conversations.pages;
 
 import java.util.Random;
 
@@ -11,7 +11,7 @@ import org.apache.tapestry5.annotations.Persist;
 import org.apache.tapestry5.annotations.Property;
 import org.apache.tapestry5.ioc.annotations.Inject;
 import org.apache.tapestry5.services.Request;
-import org.trailsframework.conversations.services.ConversationManager;
+import org.tynamo.conversations.services.ConversationManager;
 
 @Meta("tapestry.persistence-strategy=conversation")
 @IncludeJavaScriptLibrary("Guess.js")
